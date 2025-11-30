@@ -50,5 +50,5 @@ This repository is designed for:
 
 ---
 
-**Author:** Suheil Aden  
+**Author:** Dancan Mulupi 
 **Date:** 2025
